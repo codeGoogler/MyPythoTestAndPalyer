@@ -2,8 +2,6 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/AAA/AAA.iml" filepath="$PROJECT_DIR$/AAA/AAA.iml" />
-      <module fileurl="file://$PROJECT_DIR$/AAAAA/AAAAA.iml" filepath="$PROJECT_DIR$/AAAAA/AAAAA.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/MyPythoTestAndPalyer.iml" filepath="$PROJECT_DIR$/.idea/MyPythoTestAndPalyer.iml" />
     </modules>
   </component>
