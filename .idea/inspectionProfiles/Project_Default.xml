@@ -6,6 +6,7 @@
       <option name="ignoredIdentifiers">
         <list>
           <option value="keyword" />
+          <option value="os" />
         </list>
       </option>
     </inspection_tool>
