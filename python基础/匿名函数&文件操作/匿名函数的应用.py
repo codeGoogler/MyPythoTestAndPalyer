@@ -1,3 +1,6 @@
+import print as print
+
+
 def test01():
     pass
     list = [0, 102, 23, 0, 21, 314, 234, 11, 2, 3, 4, 5, 6, 7, 8, 9, 0]
