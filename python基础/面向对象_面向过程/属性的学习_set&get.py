@@ -15,4 +15,3 @@ if __name__ == "__main__":
 
     p = Persion("张三",28,"男")
 
-    print p.__str__()

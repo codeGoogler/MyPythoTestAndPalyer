@@ -2,11 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3dea612b-cfbf-4a78-9c1a-78bb91f1018e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/python基础/面向对象_面向过程/属性的学习_set&amp;get.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/python基础/匿名函数&amp;文件操作/文件的操作.py" beforeDir="false" afterPath="$PROJECT_DIR$/python基础/匿名函数&amp;文件操作/文件的操作.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/python基础/面向对象_面向过程/note.md" beforeDir="false" afterPath="$PROJECT_DIR$/python基础/面向对象_面向过程/note.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/python基础/面向对象_面向过程/属性的学习_set&amp;get.py" beforeDir="false" afterPath="$PROJECT_DIR$/python基础/面向对象_面向过程/属性的学习_set&amp;get.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -49,29 +46,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/python基础/匿名函数&amp;文件操作/文件的操作.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="243">
-              <caret line="51" column="14" selection-start-line="51" selection-start-column="14" selection-end-line="51" selection-end-column="14" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/python基础/面向对象_面向过程/来一个存放家具.py">
+        <entry file="file://$USER_HOME$/.IntelliJIdea2018.2/system/python_stubs/-1097175365/builtins.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="114">
-              <caret line="6" column="1" selection-start-line="6" selection-start-column="1" selection-end-line="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/python基础/匿名函数&amp;文件操作/1.txt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="3" selection-start-column="3" selection-end-column="3" />
+            <state relative-caret-position="6688">
+              <caret line="352" column="4" selection-start-line="352" selection-start-column="4" selection-end-line="352" selection-end-column="4" />
             </state>
           </provider>
         </entry>
@@ -118,8 +97,26 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/python基础/匿名函数&amp;文件操作/匿名函数的应用.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="209">
-              <caret line="14" column="8" selection-start-line="14" selection-start-column="8" selection-end-line="14" selection-end-column="8" />
+            <state relative-caret-position="855">
+              <caret line="45" column="33" selection-start-line="45" selection-start-column="33" selection-end-line="46" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/python基础/面向对象_面向过程/属性的学习_set&amp;get.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="323">
+              <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/python基础/面向对象_面向过程/类的定义.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="114">
+              <caret line="6" column="28" lean-forward="true" selection-start-line="6" selection-start-column="28" selection-end-line="6" selection-end-column="28" />
             </state>
           </provider>
         </entry>
@@ -206,7 +203,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -223,19 +219,20 @@
               <item name="MyPythoTestAndPalyer" type="b2602c69:ProjectViewProjectNode" />
               <item name="MyPythoTestAndPalyer" type="462c0819:PsiDirectoryNode" />
               <item name="python基础" type="462c0819:PsiDirectoryNode" />
-              <item name="匿名函数&amp;文件操作" type="462c0819:PsiDirectoryNode" />
+              <item name="面向对象_面向过程" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
       <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1552317370863" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1552401888655" />
     <property name="go.gopath.indexing.explicitly.defined" value="true" />
     <property name="jdk.selected.PYTHON_MODULE" value="Python 3.6" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
@@ -533,12 +530,10 @@
       <item itemvalue="Python.python知识点补充" />
       <item itemvalue="Python.文件的操作" />
       <item itemvalue="Python.属性的学习_set&amp;get" />
-      <item itemvalue="Python.匿名函数的应用" />
     </list>
     <recent_temporary>
       <list>
         <item itemvalue="Python.文件的操作" />
-        <item itemvalue="Python.匿名函数的应用" />
         <item itemvalue="Python.属性的学习_set&amp;get" />
         <item itemvalue="Python.python知识点补充" />
       </list>
@@ -572,7 +567,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="58048000" />
+    <option name="totallyTimeSpent" value="60157000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -585,9 +580,8 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.20272315" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.20574887" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -602,10 +596,10 @@
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" sideWeight="0.4977307" weight="0.32935154" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.50226927" side_tool="true" visible="true" weight="0.0784983" />
+      <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.50226927" side_tool="true" visible="true" weight="0.0" />
       <window_info anchor="bottom" id="Terminal" order="9" sideWeight="0.71785176" weight="0.19453925" />
       <window_info anchor="bottom" id="Docker" order="10" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="11" sideWeight="0.49848714" weight="0.32935154" />
+      <window_info anchor="bottom" id="Version Control" order="11" sideWeight="0.4977307" visible="true" weight="0.0" />
       <window_info anchor="bottom" id="Messages" order="12" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -777,15 +771,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/python基础/面向对象_面向过程/类的定义.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="209">
-          <caret line="11" column="59" selection-start-line="11" selection-start-column="59" selection-end-line="11" selection-end-column="59" />
+        <state relative-caret-position="114">
+          <caret line="6" column="28" lean-forward="true" selection-start-line="6" selection-start-column="28" selection-end-line="6" selection-end-column="28" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/python基础/面向对象_面向过程/属性的学习_set&amp;get.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="304">
-          <caret line="16" selection-start-line="16" selection-end-line="16" />
+        <state relative-caret-position="323">
+          <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
         </state>
       </provider>
     </entry>
@@ -850,8 +844,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/python基础/匿名函数&amp;文件操作/匿名函数的应用.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="209">
-          <caret line="14" column="8" selection-start-line="14" selection-start-column="8" selection-end-line="14" selection-end-column="8" />
+        <state relative-caret-position="855">
+          <caret line="45" column="33" selection-start-line="45" selection-start-column="33" selection-end-line="46" />
         </state>
       </provider>
     </entry>
