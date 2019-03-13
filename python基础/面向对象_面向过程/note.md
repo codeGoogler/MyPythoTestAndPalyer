@@ -16,3 +16,9 @@
 
 #### 总结
 。面向对象和面向过程都是一种解决问题的而已
+
+//pip安装目录  
+C:\Users\king\AppData\Local\Programs\Python\Python36-32\Scripts
+
+
+python下载： x86_64_executable install
