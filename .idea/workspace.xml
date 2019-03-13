@@ -6,7 +6,6 @@
       <change afterPath="$PROJECT_DIR$/python基础/面向对象_面向过程/私有属性和方法.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/python基础/面向对象_面向过程/继承.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/readMe.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -30,7 +29,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/python基础/面向对象_面向过程/来一个存放家具.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="266">
+            <state relative-caret-position="836">
               <caret line="44" selection-start-line="44" selection-end-line="54" />
             </state>
           </provider>
@@ -40,7 +39,7 @@
         <entry file="file://$PROJECT_DIR$/python基础/面向对象_面向过程/烤地瓜.py">
           <provider selected="true" editor-type-id="text-editor">
             <state>
-              <caret lean-forward="true" selection-end-line="7" selection-end-column="36" />
+              <caret selection-end-line="7" selection-end-column="36" />
             </state>
           </provider>
         </entry>
@@ -60,8 +59,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/python基础/面向对象_面向过程/引用及其删除.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="791">
-              <caret line="46" column="14" lean-forward="true" selection-start-line="46" selection-start-column="14" selection-end-line="46" selection-end-column="14" />
+            <state relative-caret-position="874">
+              <caret line="46" column="14" selection-start-line="46" selection-start-column="14" selection-end-line="46" selection-end-column="14" />
             </state>
           </provider>
         </entry>
@@ -69,8 +68,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/python基础/面向对象_面向过程/继承.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="277">
-              <caret line="68" column="15" lean-forward="true" selection-start-line="68" selection-start-column="15" selection-end-line="68" selection-end-column="15" />
+            <state relative-caret-position="1577">
+              <caret line="83" column="24" selection-start-line="83" selection-start-column="24" selection-end-line="83" selection-end-column="24" />
             </state>
           </provider>
         </entry>
@@ -79,7 +78,7 @@
         <entry file="file://$PROJECT_DIR$/python基础/匿名函数&amp;文件操作/1.txt">
           <provider selected="true" editor-type-id="text-editor">
             <state>
-              <caret column="3" lean-forward="true" selection-start-column="3" selection-end-column="3" />
+              <caret column="3" selection-start-column="3" selection-end-column="3" />
             </state>
           </provider>
         </entry>
@@ -87,8 +86,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/python基础/面向对象_面向过程/私有属性和方法.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="205">
-              <caret line="28" lean-forward="true" selection-start-line="14" selection-end-line="28" />
+            <state relative-caret-position="532">
+              <caret line="28" selection-start-line="14" selection-end-line="28" />
             </state>
           </provider>
         </entry>
@@ -106,7 +105,7 @@
         <entry file="file://$PROJECT_DIR$/python基础/匿名函数&amp;文件操作/匿名函数的应用.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="627">
-              <caret line="33" selection-start-line="33" selection-end-line="34" selection-end-column="26" />
+              <caret line="36" selection-start-line="36" selection-end-line="37" selection-end-column="26" />
             </state>
           </provider>
         </entry>
@@ -182,12 +181,18 @@
     </navigator>
     <panes>
       <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
               <item name="MyPythoTestAndPalyer" type="b2602c69:ProjectViewProjectNode" />
               <item name="MyPythoTestAndPalyer" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MyPythoTestAndPalyer" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MyPythoTestAndPalyer" type="462c0819:PsiDirectoryNode" />
+              <item name=".idea" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="MyPythoTestAndPalyer" type="b2602c69:ProjectViewProjectNode" />
@@ -204,7 +209,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -239,7 +243,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.继承">
+  <component name="RunManager" selected="Python.字典的常见 的操作2">
     <configuration name="字典的常见 的操作2" type="PythonConfigurationType" factoryName="Python">
       <module name="MyPythoTestAndPalyer" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -276,6 +280,28 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python基础/匿名函数&amp;文件操作/文件的操作.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="列表的学习" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="MyPythoTestAndPalyer" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\king\AppData\Local\Programs\Python\Python36-32\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python基础" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python基础/列表的学习.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -460,28 +486,6 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="列表的学习" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="MyPythoTestAndPalyer" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="C:\Users\king\AppData\Local\Programs\Python\Python36-32\python.exe" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python基础" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python基础/列表的学习.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <configuration default="true" type="PythonConfigurationType" factoryName="Python">
       <module name="MyPythoTestAndPalyer" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -530,15 +534,9 @@
       <item itemvalue="Python.字典的常见 的操作2" />
       <item itemvalue="Python.python知识点补充" />
       <item itemvalue="Python.文件的操作" />
-      <item itemvalue="Python.私有属性和方法" />
-      <item itemvalue="Python.引用及其删除" />
-      <item itemvalue="Python.继承" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.继承" />
-        <item itemvalue="Python.引用及其删除" />
-        <item itemvalue="Python.私有属性和方法" />
         <item itemvalue="Python.文件的操作" />
         <item itemvalue="Python.python知识点补充" />
       </list>
@@ -570,7 +568,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="56510000" />
+    <option name="totallyTimeSpent" value="56512000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -583,15 +581,15 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49889624" visible="true" weight="0.17910448" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49889624" visible="true" weight="0.18070363" />
       <window_info id="Structure" order="1" sideWeight="0.50110376" side_tool="true" weight="0.015991472" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
       <window_info id="UI Designer" order="4" />
       <window_info id="Capture Tool" order="5" />
       <window_info id="Favorites" order="6" sideWeight="0.50110376" side_tool="true" weight="0.015991472" />
+      <window_info anchor="bottom" id="Messages" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" sideWeight="0.49924356" weight="0.5" />
       <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.7601279" visible="true" weight="0.30178174" />
@@ -821,7 +819,7 @@
     <entry file="file://$PROJECT_DIR$/python基础/匿名函数&amp;文件操作/匿名函数的应用.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="627">
-          <caret line="33" selection-start-line="33" selection-end-line="34" selection-end-column="26" />
+          <caret line="36" selection-start-line="36" selection-end-line="37" selection-end-column="26" />
         </state>
       </provider>
     </entry>
@@ -835,20 +833,20 @@
     <entry file="file://$PROJECT_DIR$/python基础/匿名函数&amp;文件操作/1.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state>
-          <caret column="3" lean-forward="true" selection-start-column="3" selection-end-column="3" />
+          <caret column="3" selection-start-column="3" selection-end-column="3" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/python基础/面向对象_面向过程/烤地瓜.py">
       <provider selected="true" editor-type-id="text-editor">
         <state>
-          <caret lean-forward="true" selection-end-line="7" selection-end-column="36" />
+          <caret selection-end-line="7" selection-end-column="36" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/python基础/面向对象_面向过程/来一个存放家具.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="266">
+        <state relative-caret-position="836">
           <caret line="44" selection-start-line="44" selection-end-line="54" />
         </state>
       </provider>
@@ -865,22 +863,22 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/python基础/面向对象_面向过程/私有属性和方法.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="205">
-          <caret line="28" lean-forward="true" selection-start-line="14" selection-end-line="28" />
+        <state relative-caret-position="532">
+          <caret line="28" selection-start-line="14" selection-end-line="28" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/python基础/面向对象_面向过程/引用及其删除.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="791">
-          <caret line="46" column="14" lean-forward="true" selection-start-line="46" selection-start-column="14" selection-end-line="46" selection-end-column="14" />
+        <state relative-caret-position="874">
+          <caret line="46" column="14" selection-start-line="46" selection-start-column="14" selection-end-line="46" selection-end-column="14" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/python基础/面向对象_面向过程/继承.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="277">
-          <caret line="68" column="15" lean-forward="true" selection-start-line="68" selection-start-column="15" selection-end-line="68" selection-end-column="15" />
+        <state relative-caret-position="1577">
+          <caret line="83" column="24" selection-start-line="83" selection-start-column="24" selection-end-line="83" selection-end-column="24" />
         </state>
       </provider>
     </entry>
