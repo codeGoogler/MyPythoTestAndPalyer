@@ -2,11 +2,22 @@
   <profile version="1.0">
     <option name="myName" value="Project Default" />
     <inspection_tool class="PyInterpreterInspection" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="PyPep8Inspection" enabled="true" level="WEAK WARNING" enabled_by_default="true">
+      <option name="ignoredErrors">
+        <list>
+          <option value="W391" />
+          <option value="E305" />
+        </list>
+      </option>
+    </inspection_tool>
     <inspection_tool class="PyUnresolvedReferencesInspection" enabled="true" level="WARNING" enabled_by_default="true">
       <option name="ignoredIdentifiers">
         <list>
           <option value="keyword" />
           <option value="os" />
+          <option value="异常" />
+          <option value="python基础.异常模块.模块.异常处理" />
+          <option value="python基础.异常模块.模块.*" />
         </list>
       </option>
     </inspection_tool>

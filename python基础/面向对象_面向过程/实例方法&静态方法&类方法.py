@@ -25,7 +25,7 @@ class Tool(object):
         Tool.age = 21
         print("我调用了静态调度")
 
-    # 实力方法
+    # 实例方法
     def showPersion(self):
         print(self.num, self.name, self.age)
 
