@@ -14,6 +14,7 @@ if __name__ == "__main__":
    k =  student.keys()
    print(k)
 
+
    v = student.values()
    print(v)
 
@@ -32,6 +33,7 @@ if __name__ == "__main__":
        # print()
 
    print("=========================")
+
    for a , b in student.items():
        print("key = %s ,value =%s"%(a,b))
 

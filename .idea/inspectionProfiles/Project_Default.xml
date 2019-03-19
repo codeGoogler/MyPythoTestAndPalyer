@@ -18,6 +18,7 @@
           <option value="异常" />
           <option value="python基础.异常模块.模块.异常处理" />
           <option value="python基础.异常模块.模块.*" />
+          <option value="__all的测试" />
         </list>
       </option>
     </inspection_tool>
