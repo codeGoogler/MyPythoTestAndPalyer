@@ -104,7 +104,7 @@ class Enemy(object):
     def __init__(self, name):
         super(Enemy).__init__()
         self.name = name
-        self.hp = random.uniform(5,106)
+        self.hp = random.uniform(5,10)
 
     def __str__(self):
         message = "哈哈，我是敌人：%s ，拥有血量：%d 滴"%(self.name,self.hp)
