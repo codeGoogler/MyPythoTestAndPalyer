@@ -215,4 +215,3 @@ if __name__ == "__main__":
     # 参数化
     _testConnectDb()
 
-    db.sub
