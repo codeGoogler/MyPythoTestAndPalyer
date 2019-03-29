@@ -46,6 +46,11 @@ def test1():
     print(r.lpush('3', '33333333'))
     print(r.type('3'))  # 返回的结果是list
 
+    print(r.set('111', '11'))
+    print(r.set('122', '12'))
+    print(r.set('113', '13'))
+    print(r.keys(pattern='11*'))
+
 def test2():
     pass
     print(r.exists("exists"))

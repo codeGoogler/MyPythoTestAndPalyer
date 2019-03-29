@@ -15,7 +15,9 @@ def test2():
     print(r.getrange("name", 0, 1))
     print(r.getset('getrange', 'hello word'))  # 返回的结果是wo shi hao ren
     print(r.getset('getrange11', 'hello word'))  # 当键不存在的时候，返回的结果是None
-
+    
+    # print(r.delete("getrange"))
+    print(r.ttl("getrange"))
 if __name__ == "__main__":
     pass
 
