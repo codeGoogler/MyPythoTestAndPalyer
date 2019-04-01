@@ -3,18 +3,23 @@ import redis
 r = redis.Redis(host="localhost", port=6379, db=0, password=None)
 
 
-
+# hash规定了明确值的类型
 # hget(name,key)
 # 在name 对应的hash 中设备键值对
 # hset(name, key, value)
 # 在name对应的hash中批量设置键值对
-
+Student ={
+    "name":123,
+    "age":1231,
+    "address":"河南郑州理工大学"
+}
 def test2():
     # 在name 对应的hash 中设备键值对
     r.hset( "Student","name","zhangsan")
     r.hset( "Student","age",13)
     r.hset( "Student","sex1","男")
-
+    # r.hset( "Student","student",Student)
+    # r.hget("Student","student")
 
     # 获取name对应hash的所有键值
     print( r.hgetall("Student"))
