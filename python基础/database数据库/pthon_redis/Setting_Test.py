@@ -10,7 +10,7 @@ import redis
 
 def test1():
     # r=redis.Redis(host='127.0.0.1',port=6379,db=0)
-    r=redis.Redis(host='127.0.0.1',port=6379,db=0,password=None)
+    r=redis.Redis(host='127.0.0.1',port=6379,db=0,password="yyh123456")
     r.set('name','baby')
     print(r.get('name'))
     print(r.dbsize())
