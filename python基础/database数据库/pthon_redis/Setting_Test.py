@@ -1,7 +1,12 @@
 # coding=utf-8
 import redis
-"""redix python的学习博客：  https://www.cnblogs.com/baby123/p/7245086.html   
+"""redix python的学习博客
+    # python的redis简单使用:
+    # https://www.cnblogs.com/zhaohuhu/p/9140673.html    
+    # https://www.cnblogs.com/baby123/p/7245086.html 
+    # Redis在windows下安装与配置:
     https://www.cnblogs.com/lezhifang/p/7027903.html
+    # 下载redis:
     下载redis: https://github.com/MicrosoftArchive/redis/releases
     命令： http://www.redis.cn/commands.html 
     系列教程：https://www.cnblogs.com/xuchunlin/p/7061524.html

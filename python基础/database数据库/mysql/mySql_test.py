@@ -207,7 +207,7 @@ if __name__ == "__main__":
     insertValuesToTable(db)
 
     # 删除表
-    trunctTable(db)
+    # trunctTable(db)
     # 关掉游标，db，
     # 最后需要关掉数据库
     db.close()

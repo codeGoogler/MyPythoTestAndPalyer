@@ -11,7 +11,7 @@ class ReadOrWriteUtilCall(object):
         self.host = host
         self.port = port
         self.passwrod = password
-        self.r = StrictRedis(host=self.host, port=self.port, password=self.passwrod)
+        self.r = StrictRedis(host=self.host, port=self.port, password=self.passwrod,decode_responses=True)
 
     def save(self, key, value):
         self.r.set(key, value)

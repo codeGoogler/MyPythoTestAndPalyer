@@ -41,9 +41,14 @@ def insertll():
     pymysqlHelper = MysqlHelper("localhost", 3306, "python3", "root", "yyh123", "utf8")
     for i in range(10):
         sa = sha1()
-        sa.update(("12345" + str(i)).encode())
-        password = sa.hexdigest()
-        params = ["卡卡罗特" + str(i), password]
+        if i == 6:
+            sa.update(("12345" + str(i)).encode())
+            password = sa.hexdigest()
+            params = ["yyh" , password]
+        else:
+            sa.update(("12345" + str(i)).encode())
+            password = sa.hexdigest()
+            params = ["卡卡罗特" + str(i), password]
         sql = "insert into user (name ,password) values (%s,%s)"
         pymysqlHelper.cud(sql, params)
 
@@ -84,6 +89,6 @@ def login():
 if __name__ == "__main__":
     pass
     # encodingPass()
-    # testDb();
-    # insertll()
+    testDb();
+    insertll()
     login()
