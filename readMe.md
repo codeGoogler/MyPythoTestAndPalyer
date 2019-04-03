@@ -1,10 +1,10 @@
 学习python的文档：
 
-
+python2的教程
 http://www.runoob.com/python/python-tutorial.html
 
-
-
+python3的教程
+http://www.runoob.com/python3/python3-socket.html
 
 易百教程
 
@@ -21,7 +21,8 @@ https://blog.csdn.net/hp910315/article/details/82861051
 
 
 
-
+在家的电脑里使用的
 //C:\Users\king\AppData\Local\Programs\Python\Python36-32\Scripts
 
+在公司里面电脑使用的路径
 //C:\Users\yuer\AppData\Local\Programs\Python\Python37\Scripts

@@ -2,13 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3dea612b-cfbf-4a78-9c1a-78bb91f1018e" name="Default Changelist" comment="数据库测试">
+      <change afterPath="$PROJECT_DIR$/python基础/网络编程/socket编程/SocketClientTest.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python基础/网络编程/socket编程/SocketServiceTest.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python基础/网络编程/socket编程/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python基础/网络编程/socket编程/socket基础认识及其笔记.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/python基础/database数据库/mysql/mySql_test.py" beforeDir="false" afterPath="$PROJECT_DIR$/python基础/database数据库/mysql/mySql_test.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/python基础/database数据库/mysql/用户登录/test.py" beforeDir="false" afterPath="$PROJECT_DIR$/python基础/database数据库/mysql/用户登录/test.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/python基础/database数据库/pthon_redis/Setting_Test.py" beforeDir="false" afterPath="$PROJECT_DIR$/python基础/database数据库/pthon_redis/Setting_Test.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/python基础/database数据库/pthon_redis/与python进行交互.py" beforeDir="false" afterPath="$PROJECT_DIR$/python基础/database数据库/pthon_redis/与python进行交互.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/python基础/database数据库/pthon_redis/完善登录注册功能.py" beforeDir="false" afterPath="$PROJECT_DIR$/python基础/database数据库/pthon_redis/完善登录注册功能.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/python基础/面向对象_面向过程/note.md" beforeDir="false" afterPath="$PROJECT_DIR$/python基础/面向对象_面向过程/note.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/readMe.md" beforeDir="false" afterPath="$PROJECT_DIR$/readMe.md" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -18,52 +16,31 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/MyPythoTestAndPalyer$_init_.coverage" NAME="_init_方法的创建 Coverage Results" MODIFIED="1552531689815" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python基础/异常模块" />
+    <SUITE FILE_PATH="coverage/MyPythoTestAndPalyer$Setting_Test.coverage" NAME="Setting_Test Coverage Results" MODIFIED="1553756083354" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python基础/database数据库/pthon_redis" />
+    <SUITE FILE_PATH="coverage/MyPythoTestAndPalyer$redis.coverage" NAME="redis基本用法《一》 Coverage Results" MODIFIED="1553841517876" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python基础/database数据库/pthon_redis" />
     <SUITE FILE_PATH="coverage/MyPythoTestAndPalyer$python.coverage" NAME="python知识点补充 Coverage Results" MODIFIED="1552057377240" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python基础/匿名函数&amp;文件操作" />
-    <SUITE FILE_PATH="coverage/MyPythoTestAndPalyer$4s.coverage" NAME="设计一个4s的车卖店 Coverage Results" MODIFIED="1552468975656" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python基础/异常模块" />
-    <SUITE FILE_PATH="coverage/MyPythoTestAndPalyer$list.coverage" NAME="list的学习 Coverage Results" MODIFIED="1553852981024" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python基础/database数据库/pthon_redis" />
     <SUITE FILE_PATH="coverage/MyPythoTestAndPalyer$white_for__else.coverage" NAME="white_for_嵌套_else Coverage Results" MODIFIED="1551599158176" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python基础" />
-    <SUITE FILE_PATH="coverage/MyPythoTestAndPalyer$__all__Test.coverage" NAME="__all__Test Coverage Results" MODIFIED="1552882835294" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python基础/异常模块" />
-    <SUITE FILE_PATH="coverage/MyPythoTestAndPalyer$test.coverage" NAME="test Coverage Results" MODIFIED="1554212626676" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python基础/database数据库/mysql/用户登录" />
-    <SUITE FILE_PATH="coverage/MyPythoTestAndPalyer$Setting_Test.coverage" NAME="Setting_Test Coverage Results" MODIFIED="1554132710866" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python基础/database数据库/pthon_redis" />
-    <SUITE FILE_PATH="coverage/MyPythoTestAndPalyer$Pythonredis_String__.coverage" NAME="Python操作redis字符串(String)详解 《二》 Coverage Results" MODIFIED="1554108759894" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python基础/database数据库/pthon_redis" />
-    <SUITE FILE_PATH="coverage/MyPythoTestAndPalyer$_new_.coverage" NAME="_new_方法的创建 Coverage Results" MODIFIED="1552555956466" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python基础/异常模块" />
-    <SUITE FILE_PATH="coverage/MyPythoTestAndPalyer$.coverage" NAME="完善登录注册功能 Coverage Results" MODIFIED="1554217986968" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python基础/database数据库/pthon_redis" />
-    <SUITE FILE_PATH="coverage/MyPythoTestAndPalyer$_.coverage" NAME="类属性&amp;实例属性 Coverage Results" MODIFIED="1552450853810" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python基础/面向对象_面向过程" />
-    <SUITE FILE_PATH="coverage/MyPythoTestAndPalyer$mySql_test.coverage" NAME="mySql_test Coverage Results" MODIFIED="1554212267176" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python基础/database数据库/mysql" />
-    <SUITE FILE_PATH="coverage/MyPythoTestAndPalyer$_2.coverage" NAME="字典的常见 的操作2 Coverage Results" MODIFIED="1552986181746" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python基础" />
-    <SUITE FILE_PATH="coverage/MyPythoTestAndPalyer$__.coverage" NAME="==的比较 Coverage Results" MODIFIED="1553238288509" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python基础/基本语法" />
+    <SUITE FILE_PATH="coverage/MyPythoTestAndPalyer$.coverage" NAME="完善登录注册功能 Coverage Results" MODIFIED="1554256838795" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python基础/database数据库/pthon_redis" />
+    <SUITE FILE_PATH="coverage/MyPythoTestAndPalyer$list.coverage" NAME="list的学习 Coverage Results" MODIFIED="1553852981024" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python基础/database数据库/pthon_redis" />
+    <SUITE FILE_PATH="coverage/MyPythoTestAndPalyer$zset.coverage" NAME="zset的学习 Coverage Results" MODIFIED="1554113375461" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python基础/database数据库/pthon_redis" />
+    <SUITE FILE_PATH="coverage/MyPythoTestAndPalyer$SocketClientTest.coverage" NAME="SocketClientTest Coverage Results" MODIFIED="1554284652824" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python基础/网络编程/socket编程" />
+    <SUITE FILE_PATH="coverage/MyPythoTestAndPalyer$4s.coverage" NAME="设计一个4s的车卖店 Coverage Results" MODIFIED="1552468975656" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python基础/异常模块" />
+    <SUITE FILE_PATH="coverage/MyPythoTestAndPalyer$SocketServiceTest.coverage" NAME="SocketServiceTest Coverage Results" MODIFIED="1554284648062" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python基础/网络编程/socket编程" />
     <SUITE FILE_PATH="coverage/MyPythoTestAndPalyer$set_redis.coverage" NAME="set&amp;redis Coverage Results" MODIFIED="1554112325105" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python基础/database数据库/pthon_redis" />
     <SUITE FILE_PATH="coverage/MyPythoTestAndPalyer$test6.coverage" NAME="test6 Coverage Results" MODIFIED="1552529533333" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python基础/异常模块" />
-    <SUITE FILE_PATH="coverage/MyPythoTestAndPalyer$redis.coverage" NAME="redis基本用法《一》 Coverage Results" MODIFIED="1553841517876" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python基础/database数据库/pthon_redis" />
+    <SUITE FILE_PATH="coverage/MyPythoTestAndPalyer$hash.coverage" NAME="hash的用法 Coverage Results" MODIFIED="1554111316394" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python基础/database数据库/pthon_redis" />
+    <SUITE FILE_PATH="coverage/MyPythoTestAndPalyer$__all__Test.coverage" NAME="__all__Test Coverage Results" MODIFIED="1552882835294" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python基础/异常模块" />
+    <SUITE FILE_PATH="coverage/MyPythoTestAndPalyer$_.coverage" NAME="类属性&amp;实例属性 Coverage Results" MODIFIED="1552450853810" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python基础/面向对象_面向过程" />
+    <SUITE FILE_PATH="coverage/MyPythoTestAndPalyer$Pythonredis_String__.coverage" NAME="Python操作redis字符串(String)详解 《二》 Coverage Results" MODIFIED="1554108759894" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python基础/database数据库/pthon_redis" />
+    <SUITE FILE_PATH="coverage/MyPythoTestAndPalyer$__.coverage" NAME="==的比较 Coverage Results" MODIFIED="1553238288509" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python基础/基本语法" />
+    <SUITE FILE_PATH="coverage/MyPythoTestAndPalyer$_new_.coverage" NAME="_new_方法的创建 Coverage Results" MODIFIED="1552555956466" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python基础/异常模块" />
     <SUITE FILE_PATH="coverage/MyPythoTestAndPalyer$2.coverage" NAME="单利模式2 Coverage Results" MODIFIED="1552557342210" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python基础/异常模块" />
     <SUITE FILE_PATH="coverage/MyPythoTestAndPalyer$Pythonredis_list_.coverage" NAME="Python操作redis_list裁剪 《二》 Coverage Results" MODIFIED="1554110291330" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python基础/database数据库/pthon_redis" />
-    <SUITE FILE_PATH="coverage/MyPythoTestAndPalyer$zset.coverage" NAME="zset的学习 Coverage Results" MODIFIED="1554113375461" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python基础/database数据库/pthon_redis" />
-    <SUITE FILE_PATH="coverage/MyPythoTestAndPalyer$hash.coverage" NAME="hash的用法 Coverage Results" MODIFIED="1554111316394" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python基础/database数据库/pthon_redis" />
-    <SUITE FILE_PATH="coverage/MyPythoTestAndPalyer$_init_.coverage" NAME="_init_方法的创建 Coverage Results" MODIFIED="1552531689815" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python基础/异常模块" />
+    <SUITE FILE_PATH="coverage/MyPythoTestAndPalyer$_2.coverage" NAME="字典的常见 的操作2 Coverage Results" MODIFIED="1552986181746" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python基础" />
+    <SUITE FILE_PATH="coverage/MyPythoTestAndPalyer$test.coverage" NAME="test Coverage Results" MODIFIED="1553671094750" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python基础/database数据库/mysql/用户登录" />
     <SUITE FILE_PATH="coverage/MyPythoTestAndPalyer$05__.coverage" NAME="05-名片管理系统-文件版 Coverage Results" MODIFIED="1552988763132" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python基础/基本语法" />
-  </component>
-  <component name="FUSProjectUsageTrigger">
-    <session id="101618696">
-      <usages-collector id="statistics.lifecycle.project">
-        <counts>
-          <entry key="project.closed" value="1" />
-          <entry key="project.open.time.27" value="1" />
-          <entry key="project.open.time.3" value="1" />
-          <entry key="project.opened" value="2" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.types.open">
-        <counts>
-          <entry key="Markdown" value="1" />
-          <entry key="Python" value="22" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.types.edit">
-        <counts>
-          <entry key="Python" value="310" />
-        </counts>
-      </usages-collector>
-    </session>
+    <SUITE FILE_PATH="coverage/MyPythoTestAndPalyer$mySql_test.coverage" NAME="mySql_test Coverage Results" MODIFIED="1553609526292" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python基础/database数据库/mysql" />
   </component>
   <component name="FavoritesManager">
     <favorites_list name="MyPythoTestAndPalyer" />
@@ -71,65 +48,58 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/python基础/database数据库/pthon_redis/完善登录注册功能.py">
+        <entry file="file://$PROJECT_DIR$/python基础/网络编程/socket编程/SocketServiceTest.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="38">
-              <caret line="2" column="30" selection-start-line="2" selection-start-column="30" selection-end-line="2" selection-end-column="30" />
+            <state relative-caret-position="399">
+              <caret line="39" column="40" selection-start-line="39" selection-start-column="34" selection-end-line="39" selection-end-column="40" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/python基础/database数据库/pthon_redis/MysqlHelper.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-228" />
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python37/Lib/site-packages/redis/connection.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="103">
-              <caret line="124" selection-start-line="124" selection-end-line="124" />
+        <entry file="file://$PROJECT_DIR$/readMe.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="114">
+                <caret line="6" selection-start-line="6" selection-end-line="6" selection-end-column="49" />
+              </first_editor>
+              <second_editor />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/python基础/database数据库/pthon_redis/与python进行交互.py">
+        <entry file="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/2and3/socket.pyi">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="269">
-              <caret line="30" column="10" lean-forward="true" selection-start-line="30" selection-start-column="10" selection-end-line="30" selection-end-column="10" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python37/Lib/site-packages/redis/client.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="167">
-              <caret line="611" column="17" selection-start-line="611" selection-start-column="17" selection-end-line="611" selection-end-column="39" />
+            <state relative-caret-position="220">
+              <caret line="524" column="8" selection-start-line="524" selection-start-column="8" selection-end-line="524" selection-end-column="8" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/python基础/database数据库/mysql/用户登录/test.py">
+        <entry file="file://$PROJECT_DIR$/python基础/网络编程/socket编程/SocketClientTest.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="327">
-              <caret line="92" column="14" lean-forward="true" selection-start-line="92" selection-start-column="14" selection-end-line="92" selection-end-column="14" />
-              <folding>
-                <element signature="e#15#29#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="494">
+              <caret line="26" column="15" lean-forward="true" selection-start-line="26" selection-start-column="15" selection-end-line="26" selection-end-column="15" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/python基础/database数据库/mysql/mysql的增删改查.py">
+        <entry file="file://$USER_HOME$/.IntelliJIdea2018.3/system/python_stubs/356026221/builtins.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="133">
-              <caret line="10" column="3" lean-forward="true" selection-start-line="10" selection-start-column="3" selection-end-line="10" selection-end-column="3" />
+            <state relative-caret-position="187">
+              <caret line="4698" column="6" selection-start-line="4698" selection-start-column="6" selection-end-line="4698" selection-end-column="6" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/python基础/网络编程/socket编程/socket基础认识及其笔记.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="209">
+              <caret line="11" column="17" selection-start-line="11" selection-start-column="17" selection-end-line="11" selection-end-column="17" />
             </state>
           </provider>
         </entry>
@@ -146,6 +116,7 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
+      <find>end</find>
       <find>setWeight</find>
       <find>Store</find>
       <find>Mingtu</find>
@@ -171,11 +142,6 @@
       <find>de</find>
       <find>python1</find>
       <find>lindex</find>
-      <find>user</find>
-      <find>TRUNCATE</find>
-      <find>StrictRedis</find>
-      <find>decode_responses</find>
-      <find>name</find>
     </findStrings>
     <replaceStrings>
       <replace />
@@ -188,8 +154,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/python基础/异常模块/设计一个4s的车卖店.py" />
-        <option value="$PROJECT_DIR$/python基础/异常模块/简单工厂模式.py" />
         <option value="$PROJECT_DIR$/python基础/异常模块/工厂方法模式.py" />
         <option value="$PROJECT_DIR$/python基础/异常模块/_init_方法的创建.py" />
         <option value="$PROJECT_DIR$/python基础/面向对象_面向过程/实例方法&amp;静态方法&amp;类方法.py" />
@@ -222,42 +186,38 @@
         <option value="$PROJECT_DIR$/python基础/database数据库/mysql/__init__.py" />
         <option value="$PROJECT_DIR$/python基础/database数据库/mysql/mysql的增删改查.py" />
         <option value="$PROJECT_DIR$/python基础/database数据库/mysql/封装.py" />
+        <option value="$PROJECT_DIR$/python基础/database数据库/mysql/mySql_test.py" />
         <option value="$PROJECT_DIR$/python基础/格式化输出.py" />
         <option value="$PROJECT_DIR$/python基础/database数据库/mysql/数据库的封装/MysqlHelper.py" />
         <option value="$PROJECT_DIR$/python基础/database数据库/mysql/数据库的封装/封装.py" />
-        <option value="$PROJECT_DIR$/readMe.md" />
+        <option value="$PROJECT_DIR$/python基础/database数据库/mysql/用户登录/test.py" />
         <option value="$PROJECT_DIR$/python基础/面向对象_面向过程/note.md" />
         <option value="$PROJECT_DIR$/python基础/database数据库/pthon_redis/Python操作redis字符串(String)详解 《二》.py" />
         <option value="$PROJECT_DIR$/python基础/database数据库/pthon_redis/redis基本用法《一》.py" />
+        <option value="$PROJECT_DIR$/python基础/database数据库/pthon_redis/Setting_Test.py" />
         <option value="$PROJECT_DIR$/python基础/database数据库/pthon_redis/list的学习.py" />
         <option value="$PROJECT_DIR$/python基础/database数据库/pthon_redis/Python操作redis_list裁剪 《二》.py" />
         <option value="$PROJECT_DIR$/python基础/database数据库/pthon_redis/hash的用法.py" />
         <option value="$PROJECT_DIR$/python基础/database数据库/pthon_redis/set&amp;redis.py" />
         <option value="$PROJECT_DIR$/python基础/database数据库/pthon_redis/zset的学习.py" />
-        <option value="$PROJECT_DIR$/python基础/database数据库/pthon_redis/Setting_Test.py" />
-        <option value="$PROJECT_DIR$/python基础/database数据库/mysql/mySql_test.py" />
-        <option value="$PROJECT_DIR$/python基础/database数据库/mysql/用户登录/test.py" />
         <option value="$PROJECT_DIR$/python基础/database数据库/pthon_redis/完善登录注册功能.py" />
-        <option value="$PROJECT_DIR$/python基础/database数据库/pthon_redis/与python进行交互.py" />
+        <option value="$PROJECT_DIR$/readMe.md" />
+        <option value="$PROJECT_DIR$/python基础/网络编程/socket编程/socket基础认识及其笔记.py" />
+        <option value="$PROJECT_DIR$/python基础/网络编程/socket编程/SocketServiceTest.py" />
+        <option value="$PROJECT_DIR$/python基础/网络编程/socket编程/SocketClientTest.py" />
       </list>
     </option>
   </component>
-  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
-  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
-  <component name="JsGulpfileManager">
-    <detection-done>true</detection-done>
-    <sorting>DEFINITION_ORDER</sorting>
-  </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="width" value="1309" />
-    <option name="height" value="728" />
+    <option name="x" value="-7" />
+    <option name="width" value="1010" />
+    <option name="height" value="1047" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
       <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
@@ -275,26 +235,20 @@
               <item name="MyPythoTestAndPalyer" type="b2602c69:ProjectViewProjectNode" />
               <item name="MyPythoTestAndPalyer" type="462c0819:PsiDirectoryNode" />
               <item name="python基础" type="462c0819:PsiDirectoryNode" />
-              <item name="database数据库" type="462c0819:PsiDirectoryNode" />
+              <item name="网络编程" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="MyPythoTestAndPalyer" type="b2602c69:ProjectViewProjectNode" />
               <item name="MyPythoTestAndPalyer" type="462c0819:PsiDirectoryNode" />
               <item name="python基础" type="462c0819:PsiDirectoryNode" />
-              <item name="database数据库" type="462c0819:PsiDirectoryNode" />
-              <item name="mysql" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="MyPythoTestAndPalyer" type="b2602c69:ProjectViewProjectNode" />
-              <item name="MyPythoTestAndPalyer" type="462c0819:PsiDirectoryNode" />
-              <item name="python基础" type="462c0819:PsiDirectoryNode" />
-              <item name="database数据库" type="462c0819:PsiDirectoryNode" />
-              <item name="pthon_redis" type="462c0819:PsiDirectoryNode" />
+              <item name="网络编程" type="462c0819:PsiDirectoryNode" />
+              <item name="socket编程" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -302,7 +256,7 @@
     <property name="GO_FMT" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1554218139455" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1554285343181" />
     <property name="go.gopath.indexing.explicitly.defined" value="true" />
     <property name="go.sdk.automatically.set" value="true" />
     <property name="jdk.selected.PYTHON_MODULE" value="Python 3.6" />
@@ -330,125 +284,6 @@
       <recent name="D:\bazyu\project\PythonPro\MyPythoTestAndPalyer\python基础\异常模块" />
     </key>
   </component>
-  <component name="RestoreUpdateTree" date="Moments ago" ActionInfo="_Update">
-    <UpdatedFiles>
-      <FILE-GROUP>
-        <option name="myUpdateName" value="Updated from server" />
-        <option name="myStatusName" value="Changed on server" />
-        <option name="mySupportsDeletion" value="false" />
-        <option name="myCanBeAbsent" value="false" />
-        <option name="myId" value="CHANGED_ON_SERVER" />
-        <FILE-GROUP>
-          <option name="myUpdateName" value="Updated" />
-          <option name="myStatusName" value="Changed" />
-          <option name="mySupportsDeletion" value="false" />
-          <option name="myCanBeAbsent" value="false" />
-          <option name="myId" value="UPDATED" />
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/.idea/workspace.xml</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/python基础/database数据库/mysql/数据库的封装/MysqlHelper.py</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/python基础/database数据库/pthon_redis/Setting_Test.py</PATH>
-        </FILE-GROUP>
-        <FILE-GROUP>
-          <option name="myUpdateName" value="Created" />
-          <option name="myStatusName" value="Created" />
-          <option name="mySupportsDeletion" value="false" />
-          <option name="myCanBeAbsent" value="false" />
-          <option name="myId" value="CREATED" />
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/python基础/database数据库/pthon_redis/MysqlHelper.py</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/python基础/database数据库/pthon_redis/__pycache__/MysqlHelper.cpython-37.pyc</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/python基础/database数据库/pthon_redis/__pycache__/与python进行交互.cpython-37.pyc</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/python基础/database数据库/pthon_redis/与python进行交互.py</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/python基础/database数据库/pthon_redis/发布和订阅.py</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/python基础/database数据库/pthon_redis/完善登录注册功能.py</PATH>
-        </FILE-GROUP>
-        <FILE-GROUP>
-          <option name="myUpdateName" value="Deleted" />
-          <option name="myStatusName" value="Deleted" />
-          <option name="mySupportsDeletion" value="false" />
-          <option name="myCanBeAbsent" value="true" />
-          <option name="myId" value="REMOVED_FROM_REPOSITORY" />
-        </FILE-GROUP>
-        <FILE-GROUP>
-          <option name="myUpdateName" value="Restored" />
-          <option name="myStatusName" value="Will be restored" />
-          <option name="mySupportsDeletion" value="false" />
-          <option name="myCanBeAbsent" value="false" />
-          <option name="myId" value="RESTORED" />
-        </FILE-GROUP>
-      </FILE-GROUP>
-      <FILE-GROUP>
-        <option name="myUpdateName" value="Modified" />
-        <option name="myStatusName" value="Modified" />
-        <option name="mySupportsDeletion" value="false" />
-        <option name="myCanBeAbsent" value="false" />
-        <option name="myId" value="MODIFIED" />
-      </FILE-GROUP>
-      <FILE-GROUP>
-        <option name="myUpdateName" value="Skipped" />
-        <option name="myStatusName" value="Skipped" />
-        <option name="mySupportsDeletion" value="false" />
-        <option name="myCanBeAbsent" value="false" />
-        <option name="myId" value="SKIPPED" />
-      </FILE-GROUP>
-      <FILE-GROUP>
-        <option name="myUpdateName" value="Merged with conflicts" />
-        <option name="myStatusName" value="Will be merged with conflicts" />
-        <option name="mySupportsDeletion" value="false" />
-        <option name="myCanBeAbsent" value="false" />
-        <option name="myId" value="MERGED_WITH_CONFLICTS" />
-      </FILE-GROUP>
-      <FILE-GROUP>
-        <option name="myUpdateName" value="Merged with tree conflicts" />
-        <option name="myStatusName" value="Merged with tree conflicts" />
-        <option name="mySupportsDeletion" value="false" />
-        <option name="myCanBeAbsent" value="false" />
-        <option name="myId" value="MERGED_WITH_TREE_CONFLICT" />
-      </FILE-GROUP>
-      <FILE-GROUP>
-        <option name="myUpdateName" value="Merged with property conflicts" />
-        <option name="myStatusName" value="Will be merged with property conflicts" />
-        <option name="mySupportsDeletion" value="false" />
-        <option name="myCanBeAbsent" value="false" />
-        <option name="myId" value="MERGED_WITH_PROPERTY_CONFLICT" />
-      </FILE-GROUP>
-      <FILE-GROUP>
-        <option name="myUpdateName" value="Merged" />
-        <option name="myStatusName" value="Will be merged" />
-        <option name="mySupportsDeletion" value="false" />
-        <option name="myCanBeAbsent" value="false" />
-        <option name="myId" value="MERGED" />
-      </FILE-GROUP>
-      <FILE-GROUP>
-        <option name="myUpdateName" value="Not in repository" />
-        <option name="myStatusName" value="Not in repository" />
-        <option name="mySupportsDeletion" value="true" />
-        <option name="myCanBeAbsent" value="false" />
-        <option name="myId" value="UNKNOWN" />
-      </FILE-GROUP>
-      <FILE-GROUP>
-        <option name="myUpdateName" value="Locally added" />
-        <option name="myStatusName" value="Locally added" />
-        <option name="mySupportsDeletion" value="false" />
-        <option name="myCanBeAbsent" value="false" />
-        <option name="myId" value="LOCALLY_ADDED" />
-      </FILE-GROUP>
-      <FILE-GROUP>
-        <option name="myUpdateName" value="Locally removed" />
-        <option name="myStatusName" value="Locally removed" />
-        <option name="mySupportsDeletion" value="false" />
-        <option name="myCanBeAbsent" value="false" />
-        <option name="myId" value="LOCALLY_REMOVED" />
-      </FILE-GROUP>
-      <FILE-GROUP>
-        <option name="myUpdateName" value="Switched" />
-        <option name="myStatusName" value="Switched" />
-        <option name="mySupportsDeletion" value="false" />
-        <option name="myCanBeAbsent" value="false" />
-        <option name="myId" value="SWITCHED" />
-      </FILE-GROUP>
-    </UpdatedFiles>
-  </component>
   <component name="RunDashboard">
     <option name="ruleStates">
       <list>
@@ -461,7 +296,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.完善登录注册功能">
+  <component name="RunManager" selected="Python.SocketServiceTest">
     <configuration name="字典的常见 的操作2" type="PythonConfigurationType" factoryName="Python">
       <module name="MyPythoTestAndPalyer" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -506,7 +341,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Setting_Test" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="SocketClientTest" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="MyPythoTestAndPalyer" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -514,12 +349,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="C:\Users\king\AppData\Local\Programs\Python\Python36-32\python.exe" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python基础/database数据库/pthon_redis" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python基础/网络编程/socket编程" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python基础/database数据库/pthon_redis/Setting_Test.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python基础/网络编程/socket编程/SocketClientTest.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -528,7 +363,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="位移的运算" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="SocketServiceTest" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="MyPythoTestAndPalyer" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -536,122 +371,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="C:\Users\king\AppData\Local\Programs\Python\Python36-32\python.exe" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python基础/基本语法" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python基础/网络编程/socket编程" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python基础/基本语法/位移的运算.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="来一个存放家具" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="MyPythoTestAndPalyer" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="C:\Users\king\AppData\Local\Programs\Python\Python36-32\python.exe" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python基础/面向对象_面向过程" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python基础/面向对象_面向过程/来一个存放家具.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="烤地瓜" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="MyPythoTestAndPalyer" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="C:\Users\king\AppData\Local\Programs\Python\Python36-32\python.exe" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python基础/面向对象_面向过程" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python基础/面向对象_面向过程/烤地瓜.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="匿名函数的应用" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="MyPythoTestAndPalyer" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="C:\Users\king\AppData\Local\Programs\Python\Python36-32\python.exe" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python基础/匿名函数&amp;文件操作" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python基础/匿名函数&amp;文件操作/匿名函数的应用.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="字典的使用和定义" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="MyPythoTestAndPalyer" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="C:\Users\king\AppData\Local\Programs\Python\Python36-32\python.exe" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python基础" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python基础/字典的使用和定义.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="封装" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="MyPythoTestAndPalyer" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="C:\Users\king\AppData\Local\Programs\Python\Python36-32\python.exe" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python基础/database数据库/mysql/数据库的封装" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python基础/database数据库/mysql/数据库的封装/封装.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python基础/网络编程/socket编程/SocketServiceTest.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -880,6 +605,160 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="名片管理系统" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="MyPythoTestAndPalyer" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\king\AppData\Local\Programs\Python\Python36-32\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python基础/基本语法" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python基础/基本语法/名片管理系统.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="位移的运算" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="MyPythoTestAndPalyer" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\king\AppData\Local\Programs\Python\Python36-32\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python基础/基本语法" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python基础/基本语法/位移的运算.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="来一个存放家具" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="MyPythoTestAndPalyer" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\king\AppData\Local\Programs\Python\Python36-32\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python基础/面向对象_面向过程" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python基础/面向对象_面向过程/来一个存放家具.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="烤地瓜" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="MyPythoTestAndPalyer" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\king\AppData\Local\Programs\Python\Python36-32\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python基础/面向对象_面向过程" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python基础/面向对象_面向过程/烤地瓜.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="匿名函数的应用" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="MyPythoTestAndPalyer" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\king\AppData\Local\Programs\Python\Python36-32\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python基础/匿名函数&amp;文件操作" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python基础/匿名函数&amp;文件操作/匿名函数的应用.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="字典的使用和定义" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="MyPythoTestAndPalyer" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\king\AppData\Local\Programs\Python\Python36-32\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python基础" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python基础/字典的使用和定义.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="封装" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="MyPythoTestAndPalyer" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\king\AppData\Local\Programs\Python\Python36-32\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python基础/database数据库/mysql/数据库的封装" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python基础/database数据库/mysql/数据库的封装/封装.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration default="true" type="PythonConfigurationType" factoryName="Python">
       <module name="MyPythoTestAndPalyer" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -902,7 +781,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="mySql_test" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="set&amp;redis" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="MyPythoTestAndPalyer" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -910,34 +789,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="C:\Users\king\AppData\Local\Programs\Python\Python36-32\python.exe" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python基础/database数据库/mysql" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python基础/database数据库/pthon_redis" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python基础/database数据库/mysql/mySql_test.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="test" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="MyPythoTestAndPalyer" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="C:\Users\king\AppData\Local\Programs\Python\Python36-32\python.exe" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python基础/database数据库/mysql/用户登录" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python基础/database数据库/mysql/用户登录/test.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python基础/database数据库/pthon_redis/set&amp;redis.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -970,19 +827,19 @@
     </configuration>
     <list>
       <item itemvalue="Python.字典的常见 的操作2" />
+      <item itemvalue="Python.set&amp;redis" />
       <item itemvalue="Python.zset的学习" />
-      <item itemvalue="Python.Setting_Test" />
       <item itemvalue="Python.完善登录注册功能" />
-      <item itemvalue="Python.mySql_test" />
-      <item itemvalue="Python.test" />
+      <item itemvalue="Python.SocketServiceTest" />
+      <item itemvalue="Python.SocketClientTest" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.SocketClientTest" />
+        <item itemvalue="Python.SocketServiceTest" />
         <item itemvalue="Python.完善登录注册功能" />
-        <item itemvalue="Python.test" />
-        <item itemvalue="Python.mySql_test" />
-        <item itemvalue="Python.Setting_Test" />
         <item itemvalue="Python.zset的学习" />
+        <item itemvalue="Python.set&amp;redis" />
       </list>
     </recent_temporary>
   </component>
@@ -1021,8 +878,9 @@
       <workItem from="1553765564545" duration="609000" />
       <workItem from="1553834737305" duration="15756000" />
       <workItem from="1554085792261" duration="9102000" />
-      <workItem from="1554130069767" duration="1126000" />
-      <workItem from="1554209416109" duration="8047000" />
+      <workItem from="1554199523928" duration="300000" />
+      <workItem from="1554251934599" duration="14584000" />
+      <workItem from="1554282226118" duration="3660000" />
     </task>
     <task id="LOCAL-00001" summary="提交部分文件信息">
       <created>1552989950805</created>
@@ -1056,7 +914,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="232302000" />
+    <option name="totallyTimeSpent" value="241673000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -1068,27 +926,27 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.856528" visible="true" weight="0.18910742" />
-      <window_info id="Structure" order="1" sideWeight="0.14347202" side_tool="true" weight="0.19189766" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.5766526" visible="true" weight="0.20895523" />
+      <window_info id="Structure" order="1" sideWeight="0.42334738" side_tool="true" visible="true" weight="0.20895523" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
       <window_info id="UI Designer" order="4" />
       <window_info id="Capture Tool" order="5" />
-      <window_info id="Favorites" order="6" sideWeight="0.50110376" side_tool="true" weight="0.015991472" />
+      <window_info id="Favorites" order="6" sideWeight="0.14603175" side_tool="true" weight="0.20895523" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" sideWeight="0.49924356" weight="0.5" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.85173976" visible="true" weight="0.097269624" />
-      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.85627836" weight="0.37201366" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.85287845" visible="true" weight="0.20824054" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.8586956" weight="0.20063694" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" sideWeight="0.494705" weight="0.32593855" />
+      <window_info anchor="bottom" id="TODO" order="6" sideWeight="0.49520257" weight="0.32739422" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.1482602" side_tool="true" visible="true" weight="0.097269624" />
-      <window_info anchor="bottom" id="Terminal" order="9" sideWeight="0.8676248" weight="0.5068259" />
+      <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.14712153" side_tool="true" visible="true" weight="0.20824054" />
+      <window_info anchor="bottom" id="Terminal" order="9" sideWeight="0.8976546" weight="0.31737193" />
       <window_info anchor="bottom" id="Docker" order="10" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="11" sideWeight="0.4969743" weight="0.4010239" />
+      <window_info anchor="bottom" id="Version Control" order="11" sideWeight="0.4978678" weight="0.32739422" />
       <window_info anchor="bottom" id="Messages" order="12" />
       <window_info anchor="bottom" id="Concurrent Activities Diagram" order="13" sideWeight="0.49946696" weight="0.32962137" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -1107,9 +965,6 @@
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
-  </component>
-  <component name="VcsContentAnnotationSettings">
-    <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="提交部分文件信息" />
@@ -1171,11 +1026,6 @@
           <line>58</line>
           <option name="timeStamp" value="13" />
         </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/python基础/database数据库/pthon_redis/完善登录注册功能.py</url>
-          <line>31</line>
-          <option name="timeStamp" value="14" />
-        </line-breakpoint>
       </breakpoints>
       <default-breakpoints>
         <breakpoint type="python-exception">
@@ -1212,6 +1062,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="551">
           <caret line="30" column="54" selection-start-line="30" selection-start-column="54" selection-end-line="30" selection-end-column="54" />
+          <folding>
+            <element signature="e#15#28#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -1267,7 +1120,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/.IntelliJIdea2018.3/system/python_stubs/356026221/builtins.py" />
     <entry file="file://$USER_HOME$/.IntelliJIdea2018.3/system/python_stubs/356026221/_sqlite3.py" />
     <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python37/Lib/site-packages/pymysql/err.py">
       <provider selected="true" editor-type-id="text-editor">
@@ -1310,6 +1162,23 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/python基础/database数据库/mysql/mysql的增删改查.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="10" column="3" lean-forward="true" selection-start-line="10" selection-start-column="3" selection-end-line="10" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/python基础/database数据库/mysql/mySql_test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="931">
+          <caret line="50" column="12" selection-start-line="50" selection-start-column="12" selection-end-line="50" selection-end-column="32" />
+          <folding>
+            <element signature="e#0#13#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/python基础/database数据库/mysql/数据库的封装/封装.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="665">
@@ -1327,7 +1196,13 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/.IntelliJIdea2018.3/system/python_stubs/356026221/_sha1.py" />
+    <entry file="file://$USER_HOME$/.IntelliJIdea2018.3/system/python_stubs/356026221/_sha1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="475">
+          <caret line="25" column="8" selection-start-line="25" selection-start-column="8" selection-end-line="25" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python37/Lib/hashlib.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1254">
@@ -1349,6 +1224,16 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/python基础/database数据库/mysql/用户登录/test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1482">
+          <caret line="80" column="19" selection-start-line="80" selection-start-column="19" selection-end-line="80" selection-end-column="19" />
+          <folding>
+            <element signature="e#15#29#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/python基础/格式化输出.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="228">
@@ -1366,34 +1251,55 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/python基础/database数据库/pthon_redis/hash的用法.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="513">
-          <caret line="27" column="36" selection-start-line="27" selection-start-column="36" selection-end-line="27" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/python基础/database数据库/pthon_redis/zset的学习.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="38">
-          <caret line="2" column="21" selection-start-line="2" selection-start-column="21" selection-end-line="2" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/readMe.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="361">
-            <caret line="19" column="55" selection-start-line="19" selection-start-column="55" selection-end-line="19" selection-end-column="55" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/python基础/database数据库/mysql/__init__.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="19">
           <caret line="1" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/python基础/database数据库/pthon_redis/redis基本用法《一》.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="10" column="9" selection-start-line="10" selection-start-column="6" selection-end-line="10" selection-end-column="9" />
+          <folding>
+            <element signature="e#0#12#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/python基础/database数据库/pthon_redis/Setting_Test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="646">
+          <caret line="39" selection-start-line="39" selection-end-line="46" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/python基础/database数据库/pthon_redis/Python操作redis字符串(String)详解 《二》.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="12" selection-start-line="12" selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/python基础/database数据库/pthon_redis/hash的用法.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="399">
+          <caret line="21" column="33" selection-start-line="21" selection-start-column="33" selection-end-line="21" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/python基础/database数据库/pthon_redis/Python操作redis_list裁剪 《二》.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="57">
+          <caret line="3" selection-start-line="3" selection-end-line="3" selection-end-column="65" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/python基础/database数据库/pthon_redis/set&amp;redis.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" selection-start-line="2" selection-end-line="2" selection-end-column="65" />
         </state>
       </provider>
     </entry>
@@ -1410,104 +1316,79 @@
     <entry file="file://$PROJECT_DIR$/python基础/database数据库/__init__.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/python基础/database数据库/pthon_redis/__init__.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/python基础/database数据库/pthon_redis/Python操作redis_list裁剪 《二》.py">
+    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python37/Lib/site-packages/redis/client.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="57">
-          <caret line="3" selection-start-line="3" selection-end-line="3" selection-end-column="65" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/python基础/database数据库/pthon_redis/Python操作redis字符串(String)详解 《二》.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="228">
-          <caret line="12" selection-start-line="12" selection-end-line="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/python基础/database数据库/pthon_redis/redis基本用法《一》.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="171">
-          <caret line="10" column="9" selection-start-line="10" selection-start-column="6" selection-end-line="10" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/python基础/database数据库/pthon_redis/set&amp;redis.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="38">
-          <caret line="2" selection-start-line="2" selection-end-line="2" selection-end-column="65" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/python基础/database数据库/pthon_redis/Setting_Test.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="456">
-          <caret line="24" column="20" lean-forward="true" selection-start-line="24" selection-start-column="20" selection-end-line="24" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/python基础/database数据库/mysql/mySql_test.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1365">
-          <caret line="33" column="5" selection-start-line="33" selection-start-column="5" selection-end-line="33" selection-end-column="5" />
-          <folding>
-            <element signature="e#0#13#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/python基础/database数据库/pthon_redis/发布和订阅.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/python基础/database数据库/mysql/mysql的增删改查.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="133">
-          <caret line="10" column="3" lean-forward="true" selection-start-line="10" selection-start-column="3" selection-end-line="10" selection-end-column="3" />
+        <state relative-caret-position="14516">
+          <caret line="788" selection-start-line="788" selection-end-line="788" />
         </state>
       </provider>
     </entry>
     <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python37/Lib/site-packages/redis/connection.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="103">
-          <caret line="124" selection-start-line="124" selection-end-line="124" />
+        <state relative-caret-position="12027">
+          <caret line="641" selection-start-line="641" selection-end-line="641" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/python基础/database数据库/pthon_redis/MysqlHelper.py">
+    <entry file="file://$PROJECT_DIR$/python基础/database数据库/pthon_redis/zset的学习.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-228" />
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python37/Lib/site-packages/redis/client.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="167">
-          <caret line="611" column="17" selection-start-line="611" selection-start-column="17" selection-end-line="611" selection-end-column="39" />
+        <state relative-caret-position="418">
+          <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/python基础/database数据库/pthon_redis/完善登录注册功能.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="38">
-          <caret line="2" column="30" selection-start-line="2" selection-start-column="30" selection-end-line="2" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/python基础/database数据库/pthon_redis/与python进行交互.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="269">
-          <caret line="30" column="10" lean-forward="true" selection-start-line="30" selection-start-column="10" selection-end-line="30" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/python基础/database数据库/mysql/用户登录/test.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="327">
-          <caret line="92" column="14" lean-forward="true" selection-start-line="92" selection-start-column="14" selection-end-line="92" selection-end-column="14" />
+        <state relative-caret-position="323">
+          <caret line="17" column="14" lean-forward="true" selection-start-line="17" selection-start-column="14" selection-end-line="17" selection-end-column="14" />
           <folding>
-            <element signature="e#15#29#0" expanded="true" />
+            <element signature="e#16#51#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/2and3/socket.pyi">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="524" column="8" selection-start-line="524" selection-start-column="8" selection-end-line="524" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/readMe.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="114">
+            <caret line="6" selection-start-line="6" selection-end-line="6" selection-end-column="49" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/python基础/网络编程/socket编程/socket基础认识及其笔记.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="11" column="17" selection-start-line="11" selection-start-column="17" selection-end-line="11" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/python基础/网络编程/socket编程/SocketServiceTest.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="399">
+          <caret line="39" column="40" selection-start-line="39" selection-start-column="34" selection-end-line="39" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.IntelliJIdea2018.3/system/python_stubs/356026221/builtins.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="4698" column="6" selection-start-line="4698" selection-start-column="6" selection-end-line="4698" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/python基础/网络编程/socket编程/SocketClientTest.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="494">
+          <caret line="26" column="15" lean-forward="true" selection-start-line="26" selection-start-column="15" selection-end-line="26" selection-end-column="15" />
         </state>
       </provider>
     </entry>
