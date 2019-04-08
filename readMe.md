@@ -26,3 +26,12 @@ https://blog.csdn.net/hp910315/article/details/82861051
 
 在公司里面电脑使用的路径
 //C:\Users\yuer\AppData\Local\Programs\Python\Python37\Scripts
+
+
+# diango的环境配置教程
+https://www.cnblogs.com/bibi-feiniaoyuan/p/9253232.html
+https://www.cnblogs.com/nulige/p/6486142.html
+
+python diango的学习：
+https://blog.csdn.net/asialee_bird/article/details/79585590
+https://code.ziqiangxuetang.com/django/django-views-urls.html

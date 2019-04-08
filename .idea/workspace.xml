@@ -2,10 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3dea612b-cfbf-4a78-9c1a-78bb91f1018e" name="Default Changelist" comment="数据库测试">
-      <change afterPath="$PROJECT_DIR$/python基础/网络编程/socket编程/SocketClientTest.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python基础/网络编程/socket编程/SocketServiceTest.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python基础/网络编程/socket编程/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python基础/网络编程/socket编程/socket基础认识及其笔记.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/readMe.md" beforeDir="false" afterPath="$PROJECT_DIR$/readMe.md" afterDir="false" />
     </list>
@@ -50,18 +46,18 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/python基础/网络编程/socket编程/SocketServiceTest.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="399">
+            <state relative-caret-position="741">
               <caret line="39" column="40" selection-start-line="39" selection-start-column="34" selection-end-line="39" selection-end-column="40" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/readMe.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="114">
-                <caret line="6" selection-start-line="6" selection-end-line="6" selection-end-column="49" />
+              <first_editor relative-caret-position="448">
+                <caret line="37" lean-forward="true" selection-start-line="37" selection-end-line="37" />
               </first_editor>
               <second_editor />
             </state>
@@ -71,17 +67,17 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/2and3/socket.pyi">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="220">
+            <state relative-caret-position="9937">
               <caret line="524" column="8" selection-start-line="524" selection-start-column="8" selection-end-line="524" selection-end-column="8" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/python基础/网络编程/socket编程/SocketClientTest.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="494">
-              <caret line="26" column="15" lean-forward="true" selection-start-line="26" selection-start-column="15" selection-end-line="26" selection-end-column="15" />
+            <state relative-caret-position="361">
+              <caret line="19" column="25" selection-start-line="19" selection-start-column="25" selection-end-line="19" selection-end-column="25" />
             </state>
           </provider>
         </entry>
@@ -89,7 +85,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$USER_HOME$/.IntelliJIdea2018.3/system/python_stubs/356026221/builtins.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="187">
+            <state relative-caret-position="89262">
               <caret line="4698" column="6" selection-start-line="4698" selection-start-column="6" selection-end-line="4698" selection-end-column="6" />
             </state>
           </provider>
@@ -201,16 +197,17 @@
         <option value="$PROJECT_DIR$/python基础/database数据库/pthon_redis/set&amp;redis.py" />
         <option value="$PROJECT_DIR$/python基础/database数据库/pthon_redis/zset的学习.py" />
         <option value="$PROJECT_DIR$/python基础/database数据库/pthon_redis/完善登录注册功能.py" />
-        <option value="$PROJECT_DIR$/readMe.md" />
         <option value="$PROJECT_DIR$/python基础/网络编程/socket编程/socket基础认识及其笔记.py" />
         <option value="$PROJECT_DIR$/python基础/网络编程/socket编程/SocketServiceTest.py" />
         <option value="$PROJECT_DIR$/python基础/网络编程/socket编程/SocketClientTest.py" />
+        <option value="$PROJECT_DIR$/readMe.md" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-7" />
-    <option name="width" value="1010" />
+    <option name="x" value="986" />
+    <option name="y" value="6" />
+    <option name="width" value="1332" />
     <option name="height" value="1047" />
   </component>
   <component name="ProjectView">
@@ -218,7 +215,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -231,23 +227,11 @@
               <item name="MyPythoTestAndPalyer" type="462c0819:PsiDirectoryNode" />
               <item name="python基础" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="MyPythoTestAndPalyer" type="b2602c69:ProjectViewProjectNode" />
-              <item name="MyPythoTestAndPalyer" type="462c0819:PsiDirectoryNode" />
-              <item name="python基础" type="462c0819:PsiDirectoryNode" />
-              <item name="网络编程" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="MyPythoTestAndPalyer" type="b2602c69:ProjectViewProjectNode" />
-              <item name="MyPythoTestAndPalyer" type="462c0819:PsiDirectoryNode" />
-              <item name="python基础" type="462c0819:PsiDirectoryNode" />
-              <item name="网络编程" type="462c0819:PsiDirectoryNode" />
-              <item name="socket编程" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
       <pane id="PackagesPane" />
     </panes>
   </component>
@@ -256,7 +240,7 @@
     <property name="GO_FMT" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1554285343181" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1554285888401" />
     <property name="go.gopath.indexing.explicitly.defined" value="true" />
     <property name="go.sdk.automatically.set" value="true" />
     <property name="jdk.selected.PYTHON_MODULE" value="Python 3.6" />
@@ -377,6 +361,28 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python基础/网络编程/socket编程/SocketServiceTest.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="封装" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="MyPythoTestAndPalyer" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\king\AppData\Local\Programs\Python\Python36-32\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python基础/database数据库/mysql/数据库的封装" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python基础/database数据库/mysql/数据库的封装/封装.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -737,28 +743,6 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="封装" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="MyPythoTestAndPalyer" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="C:\Users\king\AppData\Local\Programs\Python\Python36-32\python.exe" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python基础/database数据库/mysql/数据库的封装" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python基础/database数据库/mysql/数据库的封装/封装.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <configuration default="true" type="PythonConfigurationType" factoryName="Python">
       <module name="MyPythoTestAndPalyer" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -880,7 +864,9 @@
       <workItem from="1554085792261" duration="9102000" />
       <workItem from="1554199523928" duration="300000" />
       <workItem from="1554251934599" duration="14584000" />
-      <workItem from="1554282226118" duration="3660000" />
+      <workItem from="1554282226118" duration="4248000" />
+      <workItem from="1554341356036" duration="2168000" />
+      <workItem from="1554689015366" duration="6371000" />
     </task>
     <task id="LOCAL-00001" summary="提交部分文件信息">
       <created>1552989950805</created>
@@ -914,7 +900,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="241673000" />
+    <option name="totallyTimeSpent" value="250800000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -926,10 +912,11 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="7" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.5766526" visible="true" weight="0.20895523" />
-      <window_info id="Structure" order="1" sideWeight="0.42334738" side_tool="true" visible="true" weight="0.20895523" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.8776509" visible="true" weight="0.21321961" />
+      <window_info id="Structure" order="1" sideWeight="0.122349106" side_tool="true" visible="true" weight="0.21321961" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
       <window_info id="UI Designer" order="4" />
@@ -937,14 +924,14 @@
       <window_info id="Favorites" order="6" sideWeight="0.14603175" side_tool="true" weight="0.20895523" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" sideWeight="0.49924356" weight="0.5" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.85287845" visible="true" weight="0.20824054" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.85287845" weight="0.20824054" />
       <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.8586956" weight="0.20063694" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" sideWeight="0.49520257" weight="0.32739422" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.14712153" side_tool="true" visible="true" weight="0.20824054" />
-      <window_info anchor="bottom" id="Terminal" order="9" sideWeight="0.8976546" weight="0.31737193" />
+      <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.102878466" side_tool="true" visible="true" weight="0.31737193" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="9" sideWeight="0.89712155" visible="true" weight="0.31737193" />
       <window_info anchor="bottom" id="Docker" order="10" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="11" sideWeight="0.4978678" weight="0.32739422" />
       <window_info anchor="bottom" id="Messages" order="12" />
@@ -1347,20 +1334,24 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/python基础/网络编程/socket编程/SocketServiceTest.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="741">
+          <caret line="39" column="40" selection-start-line="39" selection-start-column="34" selection-end-line="39" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/2and3/socket.pyi">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="220">
+        <state relative-caret-position="9937">
           <caret line="524" column="8" selection-start-line="524" selection-start-column="8" selection-end-line="524" selection-end-column="8" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/readMe.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="114">
-            <caret line="6" selection-start-line="6" selection-end-line="6" selection-end-column="49" />
-          </first_editor>
-          <second_editor />
+    <entry file="file://$USER_HOME$/.IntelliJIdea2018.3/system/python_stubs/356026221/builtins.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="89262">
+          <caret line="4698" column="6" selection-start-line="4698" selection-start-column="6" selection-end-line="4698" selection-end-column="6" />
         </state>
       </provider>
     </entry>
@@ -1371,24 +1362,20 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/python基础/网络编程/socket编程/SocketServiceTest.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="399">
-          <caret line="39" column="40" selection-start-line="39" selection-start-column="34" selection-end-line="39" selection-end-column="40" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/.IntelliJIdea2018.3/system/python_stubs/356026221/builtins.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="4698" column="6" selection-start-line="4698" selection-start-column="6" selection-end-line="4698" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/python基础/网络编程/socket编程/SocketClientTest.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="494">
-          <caret line="26" column="15" lean-forward="true" selection-start-line="26" selection-start-column="15" selection-end-line="26" selection-end-column="15" />
+        <state relative-caret-position="361">
+          <caret line="19" column="25" selection-start-line="19" selection-start-column="25" selection-end-line="19" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/readMe.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="448">
+            <caret line="37" lean-forward="true" selection-start-line="37" selection-end-line="37" />
+          </first_editor>
+          <second_editor />
         </state>
       </provider>
     </entry>
